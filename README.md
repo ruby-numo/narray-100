@@ -1,4 +1,4 @@
-# numo-docker
+# numo-notebooks
 Docker environment for Ruby-numo + IRuby notebook
 
 ## How to use numo-notebooks
