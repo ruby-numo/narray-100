@@ -1,4 +1,4 @@
-FROM ubuntu:15.10
+FROM ubuntu
 RUN apt update; apt install -y git ruby gcc ruby-dev rake make wget python python-dev g++
 RUN cd; git clone git://github.com/ruby-numo/narray; cd narray; gem build numo-narray.gemspec; gem install numo-narray-0.9.0.1.gem
 
