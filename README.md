@@ -1,7 +1,7 @@
 # numo-notebooks
 Docker environment for Ruby-numo + IRuby notebook
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/sciruby-jp/sciruby-notebooks)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ruby-numo/numo-notebooks)
 
 You can try ruby-numo example notebooks without installing IRuby. Please click *launch binder* badge.
 
