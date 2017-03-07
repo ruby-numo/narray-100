@@ -1,4 +1,4 @@
-# numo-notebooks
+# narray-100
 This is a Ruby port of [numpy-100](https://github.com/rougier/numpy-100).
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ruby-numo/numo-notebooks)
